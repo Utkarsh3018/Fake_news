@@ -30,10 +30,15 @@ python front.py
 # Datasets
 
 1.FacebookHoax Some like it hoax: Automated fake news detection in social networks
+
 2.BuzzFeedNews Hyperpartisan Facebook Pages Are Publishing False And Misleading Information At An Alarming Rate
+
 3.LIAR (ACL2017) Embracing Domain Differences in Fake News: Cross-domain Fake News Detection using Multi-modal Data
+
 4.CoAID CoAID: COVID-19 Healthcare Misinformation Dataset
+
 5.FakeNewsNet (Journal of Big Data 2020) FakeNewsNet: A Data Repository with News Content, Social Context, and Spatiotemporal Information for Studying Fake News on Social Media
+
 6.FakeHealth (AAAI 2021) Ginger cannot cure cancer: Battling fake health news with a comprehensive data repository
 
 
