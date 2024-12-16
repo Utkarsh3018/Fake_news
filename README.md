@@ -8,22 +8,27 @@ This project focuses on detecting fake news articles using machine learning tech
 
 Install Dependencies
 Ensure you have Python installed. Install required packages using:
+
 pip install -r requirements.txt
 
 Data Preparation
 Prepare your data using DataPrep.py:
+
 python DataPrep.py
 
 Train the Model
 Train the model using the Jupyter Notebook (final-fnd.ipynb) or run the corresponding script:
+
 python classifier.py
 
 Make Predictions
 Use prediction.py to predict outcomes:
+
 python prediction.py
 
 Run Frontend
 Launch the frontend server:
+
 python front.py
 
 
